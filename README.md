@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/atmcmustafa/clipboard-landing-page)
+- Live Site URL:(https://clipboard-landing-page-project.netlify.app/)
 
 ## My process
 
